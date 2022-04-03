@@ -1,5 +1,7 @@
 # marketing-agency
 
 ##screenshots
-![mobile-screenshots] .\assets\screenshots\unfactoredhtmlcode.png
-![mobile-screenshots]
+
+![Snipped view of original HTML code](assets/screenshots/originalcode.png)
+
+![Snipped view of original CSS code](assets/screenshots/originalcsscodesnippet.png)
