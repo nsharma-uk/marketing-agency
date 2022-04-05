@@ -12,8 +12,10 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 2. Elements now follow a logical structure. independent of styling and positioning.
 3. Accessible alt attributes added to icons and image elements.
 4. Headings now fall in sequential order.
-5. Title element is concise and descriptive.
-6. Comments added to aid code maintenance.  
+5. Broken link fixed.
+6. Duplicate css streamlined and changes made to HTMl accordingly.
+7. Title element is concise and descriptive.
+8. Comments added to aid code maintenance.  
    <br>
 
 ## Screenshots
@@ -24,7 +26,7 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 ![snipped view of original HTML code](assets/screenshots/originalhtmlcode.png)
 
 </details>
-<em>Code without alt text and no syntax elements</em>
+<em>Code without alt text and syntax elements</em>
 
 <br>
 <details>
@@ -34,7 +36,34 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 
 </details>
 <em>   Refactored code with alt text for accessibility and semantic elements for better SEO.</em>
+
+<br>
+<details>
+<summary>Original duplicate css code and corresponding HTML elements</summary>
+
+![snipped view of original HTML code](assets/screenshots/originalcssduplicatecode.png)
+
+</details>
+<em>Original css has duplicate class names with similar properties</em>
+<br>
+<br>
+<details>
+<summary>Original duplicate css code and corresponding html elements</summary>
+
+![snipped view of original HTML code](assets/screenshots/refactoredcssandhtml.png)
+
+</details>
+<em>Refactored code has reduced class names which have the same properties and corresponding changes have been made in html </em>
 <br>
 <br>
 
 ## Links
+
+## Authored by
+
+Original code - unknown <br>
+Refactored code - N Sharma
+
+## Contact
+
+GitHub:
