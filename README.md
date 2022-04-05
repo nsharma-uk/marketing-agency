@@ -29,6 +29,7 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 <em>Code without alt text and syntax elements</em>
 
 <br>
+
 <details>
 <summary>Refactored HTML code snippet</summary>
 
