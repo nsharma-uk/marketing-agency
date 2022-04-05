@@ -74,13 +74,17 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 
 ## Links
 
+https://nsharma-uk.github.io/marketing-agency/
+<br>
+<br>
 https://github.com/nsharma-uk/marketing-agency/tree/dev
 <br>
 <br>
 
 ## Authored by
 
-Original code - unknown <br>
+Original code - unknown
+<br>
 Refactored code - N Sharma
 <br>
 <br>
