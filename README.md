@@ -26,7 +26,7 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 ![snipped view of original HTML code](assets/screenshots/originalhtmlcode.png)
 
 </details>
-<em>Code without alt text and syntax elements</em>
+<em>Code without alt text and with no syntax elements.</em>
 
 <br>
 
@@ -64,6 +64,7 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 
 </details>
 <br>
+
 <details>
 <summary>Refactored webpage document image</summary>
 
