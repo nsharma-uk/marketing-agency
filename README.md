@@ -32,7 +32,7 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 <details>
 <summary>Refactored HTML code snippet</summary>
 
-![snipped view of original HTML code](assets/screenshots/refactoredsectionandalt.png)
+![snipped view of refactored HTML code](assets/screenshots/refactoredsectionandalt.png)
 
 </details>
 <em>   Refactored code with alt text for accessibility and semantic elements for better SEO.</em>
@@ -41,29 +41,50 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 <details>
 <summary>Original duplicate css code and corresponding HTML elements</summary>
 
-![snipped view of original HTML code](assets/screenshots/originalcssduplicatecode.png)
+![snipped view of original css code](assets/screenshots/originalcssduplicatecode.png)
 
 </details>
 <em>Original css has duplicate class names with similar properties</em>
 <br>
 <br>
 <details>
-<summary>Original duplicate css code and corresponding html elements</summary>
+<summary>Refactored css code and corresponding HTML elements</summary>
 
-![snipped view of original HTML code](assets/screenshots/refactoredcssandhtml.png)
+![snipped view of refactored css code](assets/screenshots/refactoredcssandhtml.png)
 
 </details>
 <em>Refactored code has reduced class names which have the same properties and corresponding changes have been made in html </em>
 <br>
 <br>
+<details>
+<summary>Original webpage document image</summary>
+
+![img original webpage](assets/screenshots/originalwebpage.png)
+
+</details>
+<br>
+<details>
+<summary>Refactored webpage document image</summary>
+
+![img refactored webpage](assets/screenshots/refactoredwebpage.png)
+
+</details>
+<br>
 
 ## Links
+
+https://github.com/nsharma-uk/marketing-agency/tree/dev
+<br>
+<br>
 
 ## Authored by
 
 Original code - unknown <br>
 Refactored code - N Sharma
+<br>
+<br>
 
 ## Contact
 
-GitHub:
+GitHub: github.com/nsharma-uk <br>
+Twitter: @NSharmaUK
