@@ -23,7 +23,7 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 <details>
   <summary>Original HTML code snippet</summary>
 
-![snipped view of original HTML code](assets/screenshots/originalhtmlcode.png)
+![snipped view of original HTML code](assets/screenshots/originalhtmlcodes.png)
 
 </details>
 <em>Code without alt text and with no syntax elements.</em>
@@ -68,7 +68,7 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 <details>
 <summary>Refactored webpage document image</summary>
 
-![img refactored webpage](assets/screenshots/refactoredwebpage.png)
+![img refactored webpage](assets/screenshots/refactoredwebpagedoc.png)
 
 </details>
 <br>
