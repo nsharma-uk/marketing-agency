@@ -1,3 +1,5 @@
+/*whole page styling*/
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -8,7 +10,18 @@ body {
   background-color: #d9dcd6;
 }
 
-.header {
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
+
+/*start of header styling*/
+
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -42,15 +55,9 @@ body {
   margin-left: 25px;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
+/*end of header styling*/
 
-p {
-  font-size: 16px;
-}
-
+/*start of main styling*/
 .banner-img {
   height: 800px;
   width: 100%;
@@ -120,8 +127,10 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+/*end of main styling*/
 
-.footer {
+/*start of footer styling*/
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -129,6 +138,8 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
+
+/*end of footer styling*/
