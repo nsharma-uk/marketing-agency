@@ -1,23 +1,20 @@
-
 # Marketing-Agency
 
 ## Project Summary
 
 This project is **refactoring code** for a marketing agency who want it's webpage to be updated to improve both **accessibility** and **search engine optimization**.
-<br>
-<br>
 
-## Details of Refactored Code:
+## Details of Refactored Code
 
-1. Semantic HTML codes added.
-2. Elements now follow a logical structure. independent of styling and positioning.
-3. Accessible alt attributes added to icons and image elements.
-4. Headings now fall in sequential order.
-5. Broken link fixed.
-6. Duplicate css streamlined and changes made to HTMl accordingly.
-7. Title element is concise and descriptive.
-8. Comments added to aid code maintenance.  
-   <br>
+1. Meta tags added for greater SEO.
+2. Semantic HTML codes added.
+3. Elements now follow a logical structure, independent of styling and positioning.
+4. Accessible alt attributes added to icons and image elements.
+5. Headings now fall in sequential order.
+6. Broken link fixed.
+7. Duplicate css streamlined and changes made to HTML accordingly.
+8. Title element is concise and descriptive.
+9. Comments added to aid code maintenance.
 
 ## Screenshots
 
@@ -78,22 +75,15 @@ This project is **refactoring code** for a marketing agency who want it's webpag
 ## Links
 
 https://nsharma-uk.github.io/marketing-agency/
-<br>
-<br>
+
 https://github.com/nsharma-uk/marketing-agency/tree/dev
-<br>
-<br>
 
 ## Authored by
 
 Original code - unknown
-<br>
-Refactored code - N Sharma
-<br>
-<br>
+
+Refactored code - Nayan Sharma
 
 ## Contact
 
-GitHub: github.com/nsharma-uk <br>
-Twitter: @NSharmaUK
-
+If you have any questions about this project or any other of my work, please do get contact me via [email](mailto:nsharmauk711@gmail.com) or [LinkedIn](www.linkedin.com/in/nsharma-uk).
